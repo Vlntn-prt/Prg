@@ -1,0 +1,40 @@
+#inizializzo due liste, una per ogni giocatore con lo storico di ciò che hanno giocato
+a = []
+b = []
+
+#inizializzo due liste, una per il risultato di ogni giocatore per ciascun turno
+ris_a = []
+ris_b = []
+
+#definisco le funzioni con cui i due giocatori decidono se collaborare o tradire
+funz_a = 
+funz_b = 
+
+#definisco la funzione con cui stabilire il risultato 
+def risultato(a, b):
+    if a = 0 & b = 0:
+      temp_a = 
+      temp_b = 
+    if a = 0 & b = 0 
+      temp_a = 
+      temp_b = 
+    if a = 0 & b = 0 
+      temp_a = 
+      temp_b = 
+    if a = 0 & b = 0 
+      temp_a = 
+      temp_b = 
+return       temp_a = 
+      temp_b = 
+
+# definisco il gioco, ripetuto n volte (n = 200)
+for n in 200:
+
+
+#definisco chi vince e chi perde
+risultato(a, b)
+ris_a.append(temp_a)
+ris_b.append(temp_b)
+
+
+
